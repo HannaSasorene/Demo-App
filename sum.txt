@@ -2,4 +2,6 @@ a=10
 a=20
 b=5
 c=a+b
+d=a-b
+print(d)
 print(c)
